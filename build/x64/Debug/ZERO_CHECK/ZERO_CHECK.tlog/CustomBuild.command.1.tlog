@@ -1,0 +1,10 @@
+^C:\USERS\AULA\DOCUMENTS\OSCAR\EJERCICIOS PRACTICOS\EJERCICIOS UNIDAD06\CUATRO EN LINEA\EJEMPLO_OBJETOS\BUILD\CMAKEFILES\D556B8C4BA08CCED44B7175891696380\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Aula/Documents/Oscar/Ejercicios Practicos/Ejercicios unidad06/Cuatro en linea/Ejemplo_objetos" "-BC:/Users/Aula/Documents/Oscar/Ejercicios Practicos/Ejercicios unidad06/Cuatro en linea/Ejemplo_objetos/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Aula/Documents/Oscar/Ejercicios Practicos/Ejercicios unidad06/Cuatro en linea/Ejemplo_objetos/build/ejemplo_objetos.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

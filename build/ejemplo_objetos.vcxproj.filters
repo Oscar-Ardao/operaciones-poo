@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aula\Documents\Oscar\Ejercicios Practicos\Ejercicios unidad06\Cuatro en linea\Ejemplo_objetos\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aula\Documents\Oscar\Ejercicios Practicos\Ejercicios unidad06\Cuatro en linea\Ejemplo_objetos\operacion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aula\Documents\Oscar\Ejercicios Practicos\Ejercicios unidad06\Cuatro en linea\Ejemplo_objetos\suma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aula\Documents\Oscar\Ejercicios Practicos\Ejercicios unidad06\Cuatro en linea\Ejemplo_objetos\resta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aula\Documents\Oscar\Ejercicios Practicos\Ejercicios unidad06\Cuatro en linea\Ejemplo_objetos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A41E4DC0-38A3-3A7C-9E00-18C30BCF9A43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
